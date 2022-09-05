@@ -2,14 +2,14 @@
 
 #EXTINF:-1 ,TeleSur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 ,TNT
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpsFUPdDB_zR5o6NMKV3uBeqqHno9tATN6UnRr23-ZxpjgMHGwQdTcvezC9BTpscVkjpdIvlBFauzn589GFASvcdtPZQz9V6RyeXaZFNK4JU7UDZvCbDMBDLrg61kNdUCkakfrzApSPeW782fnz1MSiE9Nwk84OOU-HM08VoCmBBQNvazhVgAaUwnYVeKl3rbT58Y_j-1DQE4fuTWA73ADN38EKupNlWpWkLwW4HJayaXezP4Uu7pmYUxLEWEa3cojTtFL1K5PLUMxp7zburmKaQdrPqw_-LCHdqoiWh1G95JvsVtI_slH6JR1N3iP9jfZpfIJte_i65hviF2D6Lt88F9nDmY0uZ_ipP-S-6bAUYNWCoezW0MO3Syq5igqDxmlf_W0Wu_xyTA0aWU1ex_wUxk48sIIVNF6IWJQQiccCfnUueuFczS94AWBtu_ouKgX5AAHzuDpj5L6xJ_P1m69JNLe3gXS5n-TobsC4JuW1QOKZBewCXnM1x__UP4PCArtyBkk1GhFjSgWjezu80l4o_vzzYpNcHB-vWT4mqyyG8Fi4qWMAzvv1lBbLSJ2_npdh-gsTHQH51Acg74_MNy5uFPWWseUjOdqJAAIfH0Zb7JiIUTA62r2_tfqwI9-jBSBBQUtc45Rb-RwZTk4m0byL60scH3MktLiAqx1pQBkFKwUhzMUD8d_3qGXru6oUSyp5VyIjbMukd9l_KRAvC4LXtW43dy_chea8PBHHWIJppZeP4oINj4_Zv6pGIuS7sXewlHNJMae-SIB3y6RSS0h9Npn5SbI6XMMlhFxOtrcrfADuX-66uDd4Bny6HhTJJlKk8J_LqmJx5c2bMx4WCrU-EVm_RI8_QiLhnZLYln0jialmXj3X5Wf-NIVgcbBoM6YB_tZYNNzyVXnjUIAEqCWV1LXdlc3QtMjDEBA.m3u8
 #EXTINF:-1 ,Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 ,FRANCE 24
-https://stream.ads.ottera.tv/cl/e5b35c95-9951-4a90-9c65-16ca2c233a7c/1280x720_1500000_0_f.m3u8
+#EXTINF:-1,FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662433461/ei/VWQWY-XXGoG5kAT-1KqwBQ/ip/45.233.169.27/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALT5bXUD9BIRCdv9t2roereIieJofnG6GCGa0YtuzrbGAiEArbe7oBMtdrX7nRZ_JeoC2fyaqX_tKwCVHPwSXlkef6Y%3D/file/index.m3u8
 #EXTINF:-1 ,CITY TV
 https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
 #EXTINF:-1 ,RT 540p
@@ -73,10 +73,6 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
-#EXTINF:-1,Cristovisión 720p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
-https://liveingesta118.cdnmedia.tv/cristovisionlive/live-2500/chunklist.m3u8
 #EXTINF:-1 ,EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 #EXTINF:-1 ,ABN
