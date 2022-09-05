@@ -9,8 +9,12 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 #EXTINF:-1,Teleantioquia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
 #EXTINF:-1,TeleCafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://liveingesta118.cdnmedia.tv/telecafelive/dvrlive-1500/chunklist.m3u8?DVR
 #EXTINF:-1,FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
@@ -28,13 +32,15 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662437306/ei/WnMWY8HZKd73j-8PvImJiA8/ip/45.233.169.27/id/RTjbYKBB828.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgc4EDndrG27c56_hMFLnradDd06ocnpVhCmLaMssrGvQCICjJh46jAPRvevgQjlVpGh5DJjq3UFICjq4Kkubaoaa8/file/index.m3u8
-#EXTINF:-1 ,FRANCE 24
+#EXTINF:-1 ,TELEVISA GUADALAJARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662436354/ei/om8WY-bCIoX44QS1rr2YCg/ip/45.233.169.27/id/vPumYclTIuQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKMou9LTqVZCU1UKTe6kEn9Z7aP-4JVir-OAYtaZk-16AiBOzM0PR0feTh3cuvDsgnAao8UUUA04k2zkY9quhls1yQ%3D%3D/file/index.m3u8
 #EXTINF:-1 ,TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 #EXTINF:-1 ,TELEVEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 ,NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
@@ -47,6 +53,8 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8?WebM3UCL
 #EXTINF:-1 ,AGROTENDENCIA TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w439701528.m3u8
 #EXTINF:-1 ,Garage TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
 #EXTINF:-1 ,Canal Trece
@@ -59,6 +67,8 @@ https://vcp.myplaytv.com/panavision/panavision/chunklist_w1353172767.m3u8
 #EXTINF:-1 ,TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w190512042.m3u8
 #EXTINF:-1 ,MUSIC TOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1504086844_b964000_sleng.m3u8
 
 
@@ -98,6 +108,8 @@ https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
 
 #EXTINF:-1,Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 http://45.233.169.1:8000/play/a00e
 #EXTINF:-1,A&E
 http://45.233.169.1:8000/play/a089
