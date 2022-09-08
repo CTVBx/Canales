@@ -39,13 +39,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662436354/ei/o
 #EXTINF:-1 ,TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 #EXTINF:-1 ,TELEVEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 ,NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
 #EXTINF:-1 ,Runtime Español (SERIES-PELIS)
-https://stream.ads.ottera.tv/cl/9c0cb204-93b5-4110-b2e3-1126ec744abf/854x480_1355200_2_f.m3u8
+https://stream.ads.ottera.tv/cl/e389a071-93da-4dff-84da-0f355eed90e3/640x360_1126400_3_f.m3u8
 
 
 #EXTINF:-1 ,TVAGRO
@@ -91,11 +89,11 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Cristovisión
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 #EXTINF:-1 ,EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
+#EXTINF:-1 ,EWTN 2
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1152/chunklist.m3u8
 #EXTINF:-1,Avivamiento TV (ABN)
 https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8
 #EXTINF:-1,TV Gracia (720p)
