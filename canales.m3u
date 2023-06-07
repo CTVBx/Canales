@@ -60,6 +60,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 ,Canal Trece
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8
 #EXTINF:-1 ,RETRO PLUS TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w525020911.m3u8
 #EXTINF:-1 ,PANAVISION (Musica)
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1353172767.m3u8
