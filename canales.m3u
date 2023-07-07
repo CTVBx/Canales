@@ -67,6 +67,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1353172767.m3u8
 #EXTINF:-1 ,TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w190512042.m3u8
+#EXTINF:-1 ,Amordiscos TV
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?WebM3UCL
+#EXTINF:-1 ,Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?WebM3UC
+#EXTINF:-1 ,Memorias TV
+https://mediacp.us:8081/8002/index.m3u8?WebM3UCL
+#EXTINF:-1 ,VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?WebM3UCL
 
 
 
